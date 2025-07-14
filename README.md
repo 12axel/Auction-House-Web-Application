@@ -1,8 +1,9 @@
-# Auction House Application
+## Project Disclaimer:
 
----
+All deliverables in this repository were collaboratively created by the project team. This repository is maintained solely for portfolio and purposes. I do not 
+claim sole ownership of the code or documents presented in it.
 
-## Use-Cases
+## Auction House Application Use-Cases Overview
 
 ### Customer Use-Cases
 
